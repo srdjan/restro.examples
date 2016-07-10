@@ -1,7 +1,8 @@
 # restro.examples
 Applications using Restro (https://github.com/Srdjan/restro)
 
-Apple-farm
+<h3>Apple-farm</h3>
+
 To run the example, clone git repo: 
     
   <code>git clone https://github.com/Srdjan/restro.examples.git</code>
