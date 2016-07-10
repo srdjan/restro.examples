@@ -33,7 +33,7 @@ When the API Explorer loads, go the main entry feld and type:
 
 <code>/api/apples</code>
 
-use 'create' button to create first apple and follow the links :)
+use <button>create</button> button to create first apple and follow the links :)
 
 JSON format example for 'Create': { "weight": 10, "color": "red" }
 
@@ -41,3 +41,6 @@ JSON format example for 'Grow': { "weightIncr": 120, }
 
 ...
 
+# License
+
+The MIT License (MIT)
