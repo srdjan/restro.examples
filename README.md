@@ -1,27 +1,37 @@
 # restro.examples
-Applications using Restro (https://github.com/Srdjan/restro)
+
+![npm downloads](https://img.shields.io/npm/dm/restro.svg)
+
+> Sample applications using Restro (https://github.com/Srdjan/restro)
 
 <h3>Apple-farm</h3>
 
 To run the example, clone git repo: 
     
-  <code>git clone https://github.com/Srdjan/restro.examples.git</code>
+```sh
+git clone https://github.com/Srdjan/restro.examples.git
+```
 
 Goto Apple-farm folder:
 
-  <code>cd apple-farm</code>
+```sh
+cd apple-farm
+```
 
 then:
 
-<code>npm install</code>
+```sh
+npm install
+npm start //or: node index.js
+```
 
-<code>npm start //or: node index.js</code>
+Open the browser, and navigate to: 
 
-Open the browser, and navigate to: <code>localhost:8080/</code>
+<code>http://localhost:8080/</code>
 
 When the API Explorer loads, go the main entry feld and type: 
 
-/api/apples
+<code>/api/apples</code>
 
 use 'create' button to create first apple and follow the links :)
 
