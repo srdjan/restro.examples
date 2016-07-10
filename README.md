@@ -14,7 +14,8 @@ Goto Apple-farm folder:
 then:
 
 <code>npm install</code>
-<code>npm start or node index.js</code>
+
+<code>npm start //or: node index.js</code>
 
 Open the browser, and navigate to: <code>localhost:8080/</code>
 
