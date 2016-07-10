@@ -4,23 +4,24 @@ Applications using Restro (https://github.com/Srdjan/restro)
 Apple-farm
 To run the example, clone git repo: 
     
-  git clone https://github.com/Srdjan/restro.examples.git
+  <code>git clone https://github.com/Srdjan/restro.examples.git</code>
 
 Goto Apple-farm folder:
 
-  cd apple-farm
+  <code>cd apple-farm</code>
 
 then:
 
-npm install
-npm start or node index.js
+<code>npm install</code>
+<code>npm start or node index.js</code>
 
-In the browser, open: localhost:8080/
-and in the API Explorer entry feld type: 
+Open the browser, and navigate to: <code>localhost:8080/</code>
+
+When the API Explorer loads, go the main entry feld and type: 
 
 /api/apples
 
-and follow the links :)
+use 'create' button to create first apple and follow the links :)
 
 JSON format example for 'Create': { "weight": 10, "color": "red" }
 
