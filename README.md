@@ -35,10 +35,14 @@ When the API Explorer loads, go the main entry feld and type:
 
 use <button>create</button> button to create first apple and follow the links :)
 
-JSON format example for 'Create': { "weight": 10, "color": "red" }
-
-JSON format example for 'Grow': { "weightIncr": 120, }
-
+JSON format example for 'Create': 
+```javascript
+{ "weight": 10, "color": "red" }
+```
+JSON format example for 'Grow': 
+```json
+{ "weightIncr": 120, }
+```
 ...
 
 # License
