@@ -2,9 +2,9 @@
 
 ![npm downloads](https://img.shields.io/npm/dm/restro.svg)
 
-> Sample applications using Restro (https://github.com/Srdjan/restro)
+### Sample applications using Restro (https://github.com/Srdjan/restro)
 
-<h3>Apple-farm</h3>
+#### Apple-farm
 
 To run the example, clone git repo: 
     
