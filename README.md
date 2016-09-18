@@ -12,13 +12,13 @@ To run the example, clone git repo:
 git clone https://github.com/Srdjan/restro.examples.git
 ```
 
-Goto Apple-farm folder:
+Go to Apple-farm folder:
 
 ```sh
 cd apple-farm
 ```
 
-then:
+and then:
 
 ```sh
 npm install
