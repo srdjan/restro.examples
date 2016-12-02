@@ -41,7 +41,7 @@ JSON format example for 'Create':
 ```
 JSON format example for 'Grow': 
 ```json
-{ "weightIncr": 120, }
+{ "weightIncr": 120 }
 ```
 ...
 
